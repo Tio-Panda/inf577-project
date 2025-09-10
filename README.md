@@ -22,7 +22,7 @@ La estructura de las carpetas es la siguiente:
 
 - `original_dataset`: Aquí irian los archivos .hdf5 descargados del [dataset PICMUS](https://www.creatis.insa-lyon.fr/Challenge/IEEE_IUS_2016/download) y el [dataset CUBDL](https://ieee-dataport.org/competitions/challenge-ultrasound-beamforming-deep-learning-cubdl-datasets#files).
 
-`weights`: Aquí están los modelos en `.keras` para poder importarlos.
+- `weights`: Aquí están los modelos en `.keras` para poder importarlos.
 
 # Problema
 
