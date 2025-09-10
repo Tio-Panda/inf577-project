@@ -1,0 +1,7 @@
+,Model-1,Model-2,Model-3
+contrast_speckle_expe_dataset_rf,0.0005,0.02248,0.04896
+contrast_speckle_simu_dataset_rf,0.001,0.06147,0.05365
+resolution_distorsion_expe_dataset_rf,0.00038,0.02152,0.02274
+carotid_cross_expe_dataset_rf,0.00021,0.03643,0.01953
+carotid_long_expe_dataset_rf,0.00031,0.01016,0.02636
+mean,0.00048,0.03041,0.03425
