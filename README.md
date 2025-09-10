@@ -8,6 +8,8 @@ Este es el código utilizado para el proyecto final del ramo, contiene 3 Jupyter
 
 - `testing.ipybn`: Este archivo nos permite obtener las figuras y tablas usadas en el trabajo con el dataset de testing (que es el dataset de PICMUS). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Tio-Panda/inf577-project/blob/main/testing.ipynb)
 
+Recordar que los archivos se deben ejecutar con una GPU.
+
 La estructura de las carpetas es la siguiente:
 
 - `dataset_test`: Esta carpeta tiene datos pre-procesados, esto es lo que se podria obtener si procesamos los datos del dataset PICMUS con `get_preprocesed_dataset.ipynb`.
