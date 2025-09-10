@@ -2,11 +2,11 @@
 
 Este es el código utilizado para el proyecto final del ramo, contiene 3 Jupyter notebooks, los cuales cumplen las siguientes funciones:
 
-- `get_preprocesed_dataset.ipynb`: Este archivo nos ayuda a transformar el dataset original y obtener archivos .hdf5 con los inputs necesarios, además de los ground truth listos para entrenar la red. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Tio-Panda/inf557-project/blob/main/get_preprocesed_dataset.ipynb)
+- `get_preprocesed_dataset.ipynb`: Este archivo nos ayuda a transformar el dataset original y obtener archivos .hdf5 con los inputs necesarios, además de los ground truth listos para entrenar la red. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Tio-Panda/inf577-project/blob/main/get_preprocesed_dataset.ipynb)
 
-- `training.ipynb`: Este archivo contiene el código para entrenar la red habiendo obtenido el dataset procesado con el archivo anterior. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Tio-Panda/inf557-project/blob/main/training.ipynb)
+- `training.ipynb`: Este archivo contiene el código para entrenar la red habiendo obtenido el dataset procesado con el archivo anterior. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Tio-Panda/inf577-project/blob/main/training.ipynb)
 
-- `testing.ipybn`: Este archivo nos permite obtener las figuras y tablas usadas en el trabajo con el dataset de testing (que es el dataset de PICMUS). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Tio-Panda/inf557-project/blob/main/testing.ipynb)
+- `testing.ipybn`: Este archivo nos permite obtener las figuras y tablas usadas en el trabajo con el dataset de testing (que es el dataset de PICMUS). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Tio-Panda/inf577-project/blob/main/testing.ipynb)
 
 La estructura de las carpetas es la siguiente:
 
